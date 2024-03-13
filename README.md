@@ -75,7 +75,6 @@ Estos son los componentes de Java
 Un método especial en Java es el método main. Este método sirve como punto de entrada para el programa Java y siempre debe estar definido de la siguiente manera:
 
 ```
-javaCopy code
 public static void main(String args[])
 ```
 
@@ -84,21 +83,20 @@ public static void main(String args[])
 1. Comentarios de una sola línea:
 
 ```
-javaCopy code
 // Esto es un comentario
 ```
 
 1. Comentarios multilínea:
 
 ```
-javaCopy code/* Esto es un comentario
+/* Esto es un comentario
    de una o más líneas */
 ```
 
 1. Comentarios de documentación para la herramienta Javadoc:
 
 ```
-javaCopy code
+
 /** Esto es un comentario para javadoc */
 ```
 
@@ -144,4 +142,4 @@ Aceptamos términos y condiciones y estaríamos listos para comenzar tras cerrar
 
 <img align="center" src="/img/7ºimagenn.PNG"  />
 
-<img align="center" src="/img/8ºimagenn.PNG"  />
+<img align="center" src="/img/8ºimagenn.PNG"  />WA
